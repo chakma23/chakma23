@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @chakma23
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning PowerBI, AzureDevOps, Databricks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Alton Chakma
+- 👀 I’m interested in learning some programming language
+- 🌱 I’m currently learning PowerBI, AzureDevOps, SQL and Python
+- 💞️ I’m looking to collaborate on AzureDevsOps and Databricks projects
+- 📫 How to reach me, email: altonchakma94@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like watching horror movies from different countries
 
 <!---
-chakma23/chakma23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
